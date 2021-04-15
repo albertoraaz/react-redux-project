@@ -1,6 +1,6 @@
-# React Redux CRUD App example with Axios and Rest API
+# React Redux App with Axios and Rest API
 
-Build a React Redux CRUD Application to consume Web API using Axios, display and modify data with Router & Bootstrap.
+Build a React Redux Application to consume Web API using Axios, display and modify data with Router & Bootstrap.
 
 ### Set port
 .env
